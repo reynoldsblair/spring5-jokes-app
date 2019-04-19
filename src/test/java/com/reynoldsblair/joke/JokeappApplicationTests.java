@@ -1,4 +1,4 @@
-package guru.springframework.joke;
+package com.reynoldsblair.joke;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
